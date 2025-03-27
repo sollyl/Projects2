@@ -1,2 +1,2 @@
 # Projects2
-Peer-to-Peer Tutoring Applicatin
+Peer-to-Peer Tutoring Application
